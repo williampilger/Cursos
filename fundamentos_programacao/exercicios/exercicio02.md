@@ -4,7 +4,7 @@
 
 Crie uma calculadora simples, onde seja possível realizar cálculos de soma, subtração, multiplicação e divisão. Para isso utilize um menu de opções no início do programa, para que o **usuário escolha a operação**.
 
-# Solução 1
+## Solução 1
 
 ```py
 
@@ -29,7 +29,7 @@ else:
 
 ```
 
-# Solução 2
+## Solução 2
 
 O exemplo abaixo usa o *laço de repetição* para repetir a seleção de operação, caso o usuário tenha digitado uma inválida.
 
