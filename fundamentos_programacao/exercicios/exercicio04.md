@@ -21,7 +21,9 @@ print(f"O volume calculado é de {volume} m³.")
 ## Sobre
 
 By: **will.i.am** | github.com/williampilger
+
 2021.11.13 - Bom Princípio - RS
+
 ♪ Back to the start - Michael Schulte
 
-Curso: Fundamentos de Programação
+Curso: **Fundamentos de Programação**

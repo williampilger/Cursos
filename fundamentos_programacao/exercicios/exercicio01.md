@@ -19,7 +19,9 @@ else:
 ## Sobre
 
 By: **will.i.am** | github.com/williampilger
+
 2021.11.13 - Bom Princípio - RS
+
 ♪ Friday Night - Vigiland
 
-Curso: Fundamentos de Programação
+Curso: **Fundamentos de Programação**

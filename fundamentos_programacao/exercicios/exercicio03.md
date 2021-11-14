@@ -25,7 +25,9 @@ obs.: Este algoritmo não é dinâmico, ou seja, não poderá ser usado para som
 ## Sobre
 
 By: **will.i.am** | github.com/williampilger
+
 2021.11.13 - Bom Princípio - RS
+
 ♪ Whatever It Takes - Imagine Dragons
 
-Curso: Fundamentos de Programação
+Curso: **Fundamentos de Programação**
