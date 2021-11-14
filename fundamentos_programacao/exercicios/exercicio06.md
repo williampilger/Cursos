@@ -6,6 +6,7 @@ Escrever um algoritmo que leia dois valores inteiros e escreva a lista dos valor
 
 ## Solução
 
+<!--
 ```py
 
 valor1 = int(input("Informe o primeiro valor: "))
@@ -22,6 +23,7 @@ else:
         print(numero)
 
 ```
+-->
 
 ## Sobre
 

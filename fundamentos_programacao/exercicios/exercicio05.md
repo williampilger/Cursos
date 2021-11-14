@@ -6,6 +6,7 @@ Escreva um algoritmo que leia um valor inteiro e diga se ele é primo.
 
 ## Solução
 
+<!--
 ```py
 
 valor = int(input("Informe o valor a ser testado: "))
@@ -21,6 +22,7 @@ else:
     print("NÃO É PRIMO!")
 
 ```
+-->
 
 ## Sobre
 
