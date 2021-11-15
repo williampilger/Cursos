@@ -6,9 +6,11 @@ Elabore um programa para ler um arquivo de texto.txt e contar o número de carac
 
 ## Solução
 
+<!-->
 ```py
 
 ```
+<-->
 
 ## Sobre
 

@@ -6,9 +6,11 @@ Escreva um jogo da forca, onde o usuário pode chutar uma quantidade limitada de
 
 ## Solução
 
+<!-->
 ```py
 
 ```
+<-->
 
 ## Sobre
 

@@ -6,7 +6,7 @@ Elabore um programa que lê 10 valores inteiros para um vetor. Encontre o menor 
 
 ## Solução
 
-<!--
+<!-->
 ```py
 
 from random import random
@@ -31,7 +31,7 @@ print(f"O maior valor é {maior}, e está na posição {maior_index}")
 print(f"O menor valor é {menor}, e está na posição {menor_index}")
 
 ```
--->
+<-->
 
 ## Sobre
 

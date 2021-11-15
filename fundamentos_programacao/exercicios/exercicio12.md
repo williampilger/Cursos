@@ -6,9 +6,11 @@ Elabore um programa que lê valores inteiros para uma matriz a[6][6]. Calcule, a
 
 ## Solução
 
+<!-->
 ```py
 
 ```
+<-->
 
 ## Sobre
 

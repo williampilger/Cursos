@@ -6,7 +6,7 @@ Faça um algoritmo que leia vários números inteiros e calcule o somatório dos
 
 ## Solução
 
-<!--
+<!-->
 ```py
 
 soma = 0
@@ -20,7 +20,7 @@ while True:
 print(f"A soma dos negativos é: {soma}")
 
 ```
--->
+<-->
 
 ## Sobre
 
