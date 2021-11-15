@@ -6,7 +6,6 @@ Crie uma calculadora simples, onde seja possível realizar cálculos de soma, su
 
 ## Solução 1
 
-<-->
 ```py
 
 print("Escolha a operação:")
@@ -29,7 +28,6 @@ else:
     print("A operação que você informou não é válida!")
 
 ```
-<-->
 
 ## Solução 2
 

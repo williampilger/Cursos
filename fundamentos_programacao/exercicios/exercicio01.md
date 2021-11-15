@@ -6,7 +6,6 @@ Faça um algoritmo que leia um valor e diga se ele é **par** ou **ímpar**.
 
 ## Solução
 
-<-->
 ```py
 
 numero = int(input("Digite o valor: "))
@@ -16,7 +15,6 @@ else:
     print("O número é ímpar!")
 
 ```
-<-->
 
 ## Sobre
 

@@ -6,11 +6,9 @@ Escreva um jogo de adivinhação, onde o usuário tem uma quantidade de tentativ
 
 ## Solução
 
-<!-->
 ```py
 
 ```
-<-->
 
 ## Sobre
 

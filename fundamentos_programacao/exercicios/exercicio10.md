@@ -6,7 +6,7 @@ Elabore um programa para ler valores para dois vetores, a[5] e b[5]. Transfira, 
 
 ## Solução 01
 
-<!-->
+<!--
 Neste exercício temos duas grandes maneira de fazer isso. A primeira é a utilização de loops e a ordenação "manual" dos valores, já na **Solução 2** veremos como utilizar funções (ou métodos) do python para facilitar este processo.
 
 ```py
@@ -64,7 +64,7 @@ print("O vetor ordenado é:")
 print(sorted(c))
 
 ```
-<-->
+-->
 
 ## Sobre
 

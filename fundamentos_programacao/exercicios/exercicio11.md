@@ -6,11 +6,9 @@ Escrever um algoritmo que leia um valor inteiro do intervalo [0,999] e escreva e
 
 ## Solução
 
-<-->
 ```py
 
 ```
-<-->
 
 ## Sobre
 
