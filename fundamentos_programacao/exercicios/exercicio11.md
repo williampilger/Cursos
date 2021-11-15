@@ -48,8 +48,8 @@ print("\n\n")#só pra quebrar umas linhas
 
 By: **will.i.am** | github.com/williampilger
 
-2021.11.?? - Bom Princípio - RS
+2021.11.14 - Bom Princípio - RS
 
-♪ ? - ?
+♪ Otherside - Red Hot Chili Peppers
 
 Curso: **Fundamentos de Programação**
