@@ -6,7 +6,6 @@ Elabore um programa que lê valores para um vetor de 10 posições e o escreve. 
 
 ## Solução
 
-<!--
 ```py
 
 def eh_primo(valor):
@@ -32,7 +31,6 @@ for valor in vetor:
         print(valor)
 
 ```
--->
 
 ## Sobre
 
