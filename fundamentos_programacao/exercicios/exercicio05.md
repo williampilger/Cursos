@@ -8,17 +8,18 @@ Escreva um algoritmo que leia um valor inteiro e diga se ele é primo.
 
 ```py
 
-valor = int(input("Informe o valor a ser testado: "))
+a = int(input("Digite um numero inteiro: "))
 
-div = 0
-for i in range(1, valor+1):
-    if(valor % i == 0):
-        div += 1 #conta os divisores do número
+cont = 0
+for i in range(2, a // 2):
+    if( a % i == 0):
+        cont += 1
+        break
 
-if(div <= 2):
-    print("É PRIMO!")
+if(cont == 0):
+    print("é primo")
 else:
-    print("NÃO É PRIMO!")
+    print("não é primo")
 
 ```
 
