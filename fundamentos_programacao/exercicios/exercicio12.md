@@ -49,7 +49,7 @@ print(f" A soma das colunas é: {vet_somaColunas}")
 
 By: **will.i.am** | github.com/williampilger
 
-2021.11.?? - Bom Princípio - RS
+2021.11.25 - Bom Princípio - RS
 
 ♪ Infinity - Jaymes Young
 
