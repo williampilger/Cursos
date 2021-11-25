@@ -6,7 +6,6 @@ Escrever um algoritmo que leia um valor inteiro do intervalo [0,999] e escreva e
 
 ## Solução
 
-<!--
 ```py
 
 numerosA = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove')
@@ -42,7 +41,6 @@ else:
 
 print("\n\n")#só pra quebrar umas linhas
 ```
--->
 
 ## Sobre
 
