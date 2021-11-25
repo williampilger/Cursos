@@ -11,6 +11,7 @@ Elabore um programa que lê valores inteiros para uma matriz a[6][6]. Calcule, a
 N = 6
 
 from random import random
+
 mat = []
 for i in range(N):
     vet = []
@@ -26,21 +27,21 @@ vet_somaLinhas = []
 vet_somaColunas = []
 for linha in range(N):
     for coluna in range(N):
-        
+
         valor = mat[linha][coluna]
 
         if(coluna == 0):
             vet_somaLinhas.append(valor)
         else:
             vet_somaLinhas[linha] += valor
-        
+
         if(linha == 0):
             vet_somaColunas.append(valor)
         else:
             vet_somaColunas[coluna] += valor
 
-print(f"A soma das LINHAS é: {vet_somaLinhas}")
-print(f"A soma das COLUNAS é: {vet_somaColunas}")
+print(f"\n A soma das linhas é: {vet_somaLinhas}")
+print(f" A soma das colunas é: {vet_somaColunas}")
 
 ```
 
