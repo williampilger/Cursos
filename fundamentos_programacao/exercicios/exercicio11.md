@@ -4,10 +4,41 @@
 
 Escrever um algoritmo que leia um valor inteiro do intervalo [0,999] e escreva esse valor por extenso.
 
-## Solução
+## Solução 1
 
 ```py
 
+numerosA = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove')
+numerosB = ('vinte', 'trinta', 'quarenta', 'cinquenta', 'sessenta', 'setenta', 'oitenta', 'noventa', 'cem')
+numerosC = ('cento', 'duzentos', 'trezentos', 'quatrocentos', 'quinhentos', 'seiscentos', 'setecentos', 'oitocentos', 'novecentos')
+
+num = int(input("Digite u numero inteiro entre 0 e 999: "))
+
+foi = False
+if(num > 100):
+    parc = num // 100
+    print(numeros_centenas[parc - 1], end="")
+    num %= 100
+    foi = True
+if(num > 19):
+    if(foi):
+        print(" e ", end="")
+    parc = num // 10
+    print(numeros_dezenas[parc - 2], end="")
+    num %= 10
+    foi = True
+if( num > 0 or not foi):
+    if(foi):
+        print(" e ", end="")
+    print(numeros_0a19[num], end="")
+
+print("\n\n\n") #só por estética
+
+```
+
+## Solução 2
+
+```py
 numerosA = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove')
 numerosB = ('vinte', 'trinta', 'quarenta', 'cinquenta', 'sessenta', 'setenta', 'oitenta', 'noventa', 'cem')
 numerosC = ('cento', 'duzentos', 'trezentos', 'quatrocentos', 'quinhentos', 'seiscentos', 'setecentos', 'oitocentos', 'novecentos')
