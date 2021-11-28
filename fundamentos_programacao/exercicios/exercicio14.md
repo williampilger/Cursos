@@ -72,8 +72,8 @@ print("Fim de jogo!")
 
 By: **will.i.am** | github.com/williampilger
 
-2021.11.?? - Bom Princípio - RS
+2021.11.28 - Bom Princípio - RS
 
-♪ ? - ?
+♪ Renata - Tihuana
 
 Curso: **Fundamentos de Programação**
