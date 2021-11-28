@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Elabore um programa para ler um arquivo de texto.txt e contar o número de caracteres e palavras contidos no mesmo. Faça também a contagem da quantidade de vezes que cada letra/número foi encontrado.
+Elabore um programa para ler um arquivo de texto.txt e contar o número de caracteres contidos no mesmo. Faça também a contagem da quantidade de vezes que cada letra/número foi encontrado.
 
 ## Solução
 
