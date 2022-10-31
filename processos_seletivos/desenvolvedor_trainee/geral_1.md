@@ -15,11 +15,13 @@
 Interface:
 - [ ] Texto
 - [ ] Gráfica
+- [ ] Opção do candidato
 
 Tipo de média:
 - [ ] Aritmética
 - [ ] Ponderada (*implementação dos pesos*)
 - [ ] Ambas
+- [ ] Opção do candidato
 
 Número de notas:
 - [ ] 3
@@ -48,3 +50,23 @@ Escreva um algoritmo que receba o número *X* de notas de um aluno, e o tipo de 
 - [ ] Utilização
 	- [ ] Fácil entendimento
 	- [ ] Interação facilitado
+	- [ ] Previne entradas inválidas
+
+
+
+## Feedback / Avaliação
+
+**Avaliador:** William Pilger
+
+**Nota (0-10):** `?`
+
+**Duração:** `1:30`
+
+**Demonstrou:**
+- [ ] Domínio da linguagem;
+- [ ] Boa lógica de programação;
+- [ ] Interesse por aprender coisas novas;
+- [ ] Aptidão especial para desenvolvimento rápido;
+- [ ] Perfeccionismo (desejo de entregar o melhor possível);
+
+**Observações:** Realizou a tarefa... .
