@@ -42,11 +42,16 @@
         }
 
     </style>
+    <script>
+        const onclick_do_span = () => {
+            window.alert('CÊ CLICOU AQUI!!')
+        }
+    </script>
 </head>
 <body>
     <!-- <h1 style="border: 1px solid red;border-radius: 5px 15px 15px 5px; background-color: black;color: white;padding: 5px 50px 80px 2px;width: fit-content;">Teste 1</h1> -->
     <h1>Teste 1</h1>
-    <h2>Teste2</h2>
+    <h2>Teste2</h2><!-- este é um comentário--> 
 
     <div id="primeira" class="divisor">
         <span>0 este é um span</span>
@@ -55,7 +60,7 @@
 
     <div class="divisor">
         <span>2 este é um span</span>
-        <span>3 este é um span</span>
+        <span onclick="onclick_do_span()">3 este é um span</span>
     </div>
     
     <p>1 teste de um parágrafo grande</p>

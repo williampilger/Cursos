@@ -20,7 +20,3 @@ Instale o *VS Code* e:
 
 - `MS-CEINTL.vscode-language-pack-pt-BR`
 
-
-
-- [ ] Protocolo HTTP
-- [ ] 
