@@ -1,0 +1,33 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.corpo-todo{
+    width: 100%;
+    height: 100%;
+    
+    display: flex;
+
+    justify-content: space-around;
+
+}
+
+.centralizado{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    height: 100%;
+
+    gap: 5px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.quadrado{
+    width: 10px;
+    height: 10px;
+}
